@@ -12,8 +12,7 @@
 #include <cmath>
 using namespace std;
 class Map;
-//Actor::Actor(int mc, int mr, int marmor, int mstrength, int health, int mdexterity,int msleep, char mysymbol, Map* map):mC(mc),mR(mr),mArmor(marmor),mStrength(mstrength),mHealth(health), //mDexterity(mdexterity),mSleep(msleep), mSymbol(mysymbol), mMap(map){}
-//Actor::Actor( int mc, int mr, char mysymbol, Map* map): mC(mc), mR(mr), mSymbol(mysymbol), mMap( map)
+
 //{
     
 //}
